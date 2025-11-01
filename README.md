@@ -10,7 +10,7 @@
 - 🤝 Collaborating on **front-end and UI design projects**.  
 - 📫 Reach me at **sriprasanna642001@gmail.com**  
 - 📜<a href="https://github.com/Prasanna6421/Prasanna6421/blob/main/Prasanna_Venkatesh_Frontend_Developer_Resume.pdf" download>
-  📄 Download Resume</a>
+   Download Resume</a>
 - ⚡ Fun fact: I enjoy creating smooth user experiences and animations!
 
 
