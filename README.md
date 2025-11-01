@@ -6,17 +6,15 @@
 <h3 align="center">Front-End Developer | React & JavaScript Enthusiast</h3>
 
 ---
-
 ### 👨‍💻 About Me
-- 🔎 Actively seeking **Front-End Developer opportunities** to apply and grow my skills.
-- 💻 Aspiring Front-End Developer passionate about creating interactive web experiences.
-- 🔗 Building responsive web apps using **HTML5, CSS3, and Bootstrap 5**.
-- 🤝 Collaborating on **front-end and UI design projects**.
-- 📫 Reach me at **sriprasanna642001@gmail.com**
-- 📄 <p align="center">📄 <a href="https://github.com/Prasanna6421/Prasanna6421/blob/main/Prasanna_Frontend_Developer_Resume.pdf" style="text-decoration:none; color:inherit;">My Developer Journey (Resume)</a></p>
+- 🔎 Actively seeking **Front-End Developer opportunities** to apply and grow my skills.  
+- 💻 Aspiring Front-End Developer passionate about creating interactive web experiences.  
+- 🔗 Building responsive web apps using **HTML5, CSS3, and Bootstrap 5**.  
+- 🤝 Collaborating on **front-end and UI design projects**.  
+- 📫 Reach me at **sriprasanna642001@gmail.com**  
+- 📄 <a href="https://github.com/Prasanna6421/Prasanna6421/blob/main/Prasanna_Frontend_Developer_Resume.pdf" style="text-decoration:none; color:inherit;">My Developer Journey (Resume)</a>  
 - ⚡ Fun fact: I enjoy creating smooth user experiences and animations!
 
----
 
 ### 🧠 Languages & Tools
 <p align="center">
