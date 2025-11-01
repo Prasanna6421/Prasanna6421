@@ -33,7 +33,11 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Prasanna6421&show_icons=true&theme=radical" />
+<img src="https://github-readme-stats.vercel.app/api?username=Prasanna6421&show_icons=true&theme=radical" /><br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Prasanna6421&theme=radical" /><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prasanna6421&layout=compact&theme=radical" /><br/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Prasanna6421&theme=radical&no-frame=true&margin-w=5" />
+
 </p>
 
 ---
