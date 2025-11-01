@@ -2,7 +2,7 @@
   <img src="https://github.com/Prasanna6421/Prasanna6421/blob/main/git_profile.jpg" width="200" height="200" style="border-radius:50%;" alt="Prasanna Venkatesh" />
 </p>
 
-<h1 align="center">Hi there 👋, I'm Prasanna Venkatesh</h1>
+<h1 align="center">Hi there👋, I'm Prasanna Venkatesh</h1>
 <h3 align="center">Front-End Developer | React & JavaScript Enthusiast</h3>
 
 ---
