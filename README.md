@@ -12,7 +12,9 @@
 - 🔗 Building responsive web apps using **HTML5, CSS3, and Bootstrap 5**.  
 - 🤝 Collaborating on **front-end and UI design projects**.  
 - 📫 Reach me at **sriprasanna642001@gmail.com**  
-- 📄 <a href="https://github.com/Prasanna6421/Prasanna6421/blob/main/Prasana_Frontend_Developer_Resume.pdf" style="text-decoration:none; color:inherit;">My Developer Journey (Resume)</a>  
+- <a href="https://github.com/Prasanna6421/Prasanna6421/raw/main/Prasanna_Frontend_Developer_Resume.pdf" download>
+    <img src="https://img.shields.io/badge/Download%20Resume-FF6F61?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Download Resume"/>
+  </a>
 - ⚡ Fun fact: I enjoy creating smooth user experiences and animations!
 
 
