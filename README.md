@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Hi there 👋, I'm Prasanna Venkatesh</h1>
-<h3 align="center">Front-End Developer</h3>
+<h3 align="center">Front-End Developer | React & JavaScript Enthusiast</h3>
 
 ---
 
