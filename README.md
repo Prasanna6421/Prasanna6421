@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Prasanna6421/Prasanna6421/main/profile.jpg" width="200" height="200" style="border-radius:50%;" alt="Prasanna Venkatesh" />
+  <img src="https://github.com/Prasanna6421/Prasanna6421/blob/main/git_profile.jpg" width="200" height="200" style="border-radius:50%;" alt="Prasanna Venkatesh" />
 </p>
 
 <h1 align="center">Hi there 👋, I'm Prasanna Venkatesh</h1>
