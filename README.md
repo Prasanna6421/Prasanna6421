@@ -24,11 +24,26 @@
 </p>
 
 ---
+### 🚀 Projects  
 
-### 🚀 Projects
-- [**DevProfiles Hub**](#) — Manage developer profiles using HTML, CSS, JS, and localStorage.
-- [**Dynamic Kanban App**](#) — Task management board with drag-and-drop and persistent data.
-- [**Portfolio Website**](#) — Personal responsive portfolio using Bootstrap 5.
+- 💼 [**DevProfiles Hub**](https://prasannav-devprofiles.vercel.app/)  
+  Manage developer profiles using HTML, CSS, JS, and localStorage.  
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
+
+- 🧩 [**Dynamic Kanban App**](https://prasannav-kanban.vercel.app/)  
+  Task management board with drag-and-drop and persistent data.  
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
+
+- 🎨 [**Portfolio Website**](https://prasannav-portfolio.vercel.app/)  
+  Personal responsive portfolio using Bootstrap 5.  
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white" />
+
 
 ---
 
