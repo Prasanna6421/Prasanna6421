@@ -8,8 +8,8 @@
 - 💻 Aspiring Front-End Developer passionate about creating interactive web experiences.  
 - 🔗 Building responsive web apps using **HTML5, CSS3, and Bootstrap 5**.  
 - 🤝 Collaborating on **front-end and UI design projects**.  
-- 🌐 <a href="https://prasannav-portfolio.vercel.app/" target="_blank">My Portfolio</a>  
-- 💼 <a href="https://www.linkedin.com/in/prasannavenkateshr/" target="_blank">LinkedIn Profile</a>  
+- 🌐 <a href="https://prasnna.neocities.org/portfolio/My_portfolio" target="_blank">My Portfolio</a>  
+- 💼 <a href="https://www.linkedin.com/in/prasanna-venkatesh-45590036b/" target="_blank">LinkedIn Profile</a>  
 - 📫 Reach me at **sriprasanna642001@gmail.com**  
 - 📜 <a href="https://raw.githubusercontent.com/Prasanna6421/Prasanna6421/main/Prasanna_Venkatesh_Frontend_Developer_Resume.pdf" download>
    Download Resume
