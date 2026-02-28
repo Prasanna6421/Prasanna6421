@@ -11,7 +11,7 @@
 - 🌐 <a href="https://prasnna.neocities.org/portfolio/My_portfolio" target="_blank">My Portfolio</a>  
 - 💼 <a href="https://www.linkedin.com/in/prasanna-venkatesh-45590036b/" target="_blank">LinkedIn Profile</a>  
 - 📫 Reach me at **sriprasanna642001@gmail.com**  
-- 📜 <a href="https://raw.githubusercontent.com/Prasanna6421/Prasanna6421/main/Prasanna_Venkatesh_Frontend_Developer_Resume.pdf" download>
+- 📜 <a href="https://raw.githubusercontent.com/Prasanna6421/Prasanna6421/main/PRASANNA VENKATESH_frontend_developer.pdf" download>
    Download Resume
 </a>  
 - ⚡Fun fact: I enjoy creating smooth user experiences and animations!
