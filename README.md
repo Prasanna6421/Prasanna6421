@@ -49,7 +49,7 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
 
   
-- 📚 [**Interactive-comment-section**](https://lnkd.in/gMThBu5a)  
+- 📚 [**Interactive-comment-section**](https://prasanna6421.github.io/Interactive-comment-section/)  
   Interactive eBook platform featuring carousel book displays, search, and genre filtering with smooth UI animations.  
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
