@@ -26,12 +26,6 @@
 ---
 ### 🚀 Projects  
 
-- 📚 [**Interactive-comment-section**](https://lnkd.in/gMThBu5a)  
-  Interactive eBook platform featuring carousel book displays, search, and genre filtering with smooth UI animations.  
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
-
 - 📚 [**E-Books Web App**](https://prasnna.neocities.org/E-Book/demo)  
   Interactive eBook platform featuring carousel book displays, search, and genre filtering with smooth UI animations.  
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
@@ -44,18 +38,29 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
 
+  
+- 📚 [**Interactive-comment-section**](https://lnkd.in/gMThBu5a)  
+  Interactive eBook platform featuring carousel book displays, search, and genre filtering with smooth UI animations.  
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
+
+
+  🎨 [**Portfolio Website**](https://prasanna6421.github.io/Portfolio/)  
+  Personal responsive portfolio showcasing projects, skills, and achievements — built with HTML, CSS, JavaScript, and Bootstrap.  
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white" />
+
+
 - 🧩 [**Dynamic Kanban App**](https://prasanna6421.github.io/Dynamic-Kanban/)  
   Task management board with drag-and-drop functionality, CRUD features, and data persistence using localStorage.  
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
 
-- 🎨 [**Portfolio Website**](https://prasanna6421.github.io/Portfolio/)  
-  Personal responsive portfolio showcasing projects, skills, and achievements — built with HTML, CSS, JavaScript, and Bootstrap.  
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white" />
+- 
 
 - ⚙️ [**CRUD Operation App**](https://prasanna6421.github.io/CRUD_Operation/)  
   Web app to create, edit, delete, and store user data dynamically using HTML, CSS, and JavaScript.  
