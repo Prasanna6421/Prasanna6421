@@ -26,11 +26,21 @@
 ---
 ### 🚀 Projects  
 
-- 📚 [**E-Books Web App**](https://prasnna.neocities.org/E-Book/demo)  
-  Interactive eBook platform featuring carousel book displays, search, and genre filtering with smooth UI animations.  
+- 📚 [**Prescripto**](https://prescripto-ox4q-r6snq03sq-prasanna6421s-projects.vercel.app/)  
+  Prescripto connects patients with doctors for easy, secure appointment booking through a responsive platform.
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
+   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white" />
+   <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" />
+
+- 📚 [**BeautySalon Web App**](https://prasanna6421.github.io/BeautySalon/)  
+  Modern responsive salon booking portfolio built with React, smooth UI, services showcase, and booking system..  
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" />
 
 - 💼 [**DevProfiles Hub**](https://prasnna.neocities.org/%20DevProfiles%20Hub%20/)  
   Front-end app for managing developer profiles using HTML, CSS, and JS with fully responsive layouts and localStorage integration.  
@@ -60,7 +70,6 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
 
-- 
 
 - ⚙️ [**CRUD Operation App**](https://prasanna6421.github.io/CRUD_Operation/)  
   Web app to create, edit, delete, and store user data dynamically using HTML, CSS, and JavaScript.  
