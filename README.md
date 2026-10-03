@@ -28,7 +28,7 @@
 
 # 🚀 Projects
 
-### 🩺 [**Prescripto**](https://prescripto-ox4q-r6snq03sq-prasanna6421s-projects.vercel.app/)
+### 🩺 [**Prescripto**](https://prescripto-ox4q.vercel.app/)
 
 Prescripto connects patients with doctors for easy, secure appointment booking through a responsive platform.
 
